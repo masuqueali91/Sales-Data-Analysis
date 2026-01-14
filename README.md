@@ -14,12 +14,16 @@ Performed end-to-end sales data analysis using Power BI to identify trends, patt
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 - Step 3 : There were a lot of null values ​​present in one of the fact tables, so I replaced the null values ​​using the left join function.
 - step 4 : Built relationships between tables (fact table, Dim Product,Dim Promotion, Dim Customer, Date Table 1, Date Table 2) to enable accurate analysis.
-- Step 5 : creatin a two date table using DAX function for the purpose of stack holder find the diffrence of Total profit , Total Quantity and total sale.
  
-for creating new column following DAX expression was written;
-       Date Table 1 = CALENDARAUTO()
-       Date Table 2 = CALENDARAUTO()
-- Step 6 : The stack holder wants to Top/Bottom 5 product by Sales/Profit/Quantity Sold.
+
+- Step 5 :Stack holder wants to show top/bottom 5 products based on sales/profit/quantity sold, so I created stacked bar chart in Power BI and showed top/bottom 5 products based on sales, profit and quantity.
+- Step 6 : Stackholder wants to Show relationship between sales & profit, than i created Scatter Chart in power Bi and show the relationship between sales and profit.
+- Step 7 : Stackholder wants to Compare sales/profit/quantity sold between any two periods selected by the user so I created a two time period coumn using DAX expression was written.
+         Date Table 1 = CALENDARAUTO().
+         Date Table 2 = CALENDARAUTO().
+- Step 8 : The stakeholder wants to show sales by different cities, I have shown all the different cities using a map.
+
+      
        
 
 
