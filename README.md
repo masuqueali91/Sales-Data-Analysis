@@ -28,7 +28,7 @@ Performed end-to-end sales data analysis using Power BI to identify trends, patt
   
  <img width="163" height="563" alt="two Date column" src="https://github.com/user-attachments/assets/c92aa7b9-4b55-490e-b2fe-1d608e795cd6" />
 
--step 8: I create a new measure for Sum of Net Sales for calculate the sum of fact table(net sales)and table 1, and establish a relation without effecting the table2 and fact table date column.
+-step 8: I create a new measure for Sum of Net Sales for calculate the sum of fact table(net sales)and table 1, and establish a relation without effecting the table2 and fact table date column. I create this table for the parpose of the client find and compare the total net sales in two diffrent time line.
 
                  Sum of Net sales = CALCULATE(SUM('Fact Table'[Net Sales]),ALL('Date Table 1'),USERELATIONSHIP('Date Table                                 2'[Date],'Fact Table'[Date (dd/mm/yyyy)]))
 
