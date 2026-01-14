@@ -49,11 +49,15 @@ Performed end-to-end sales data analysis using Power BI to identify trends, patt
 
 <img width="1361" height="663" alt="top5, bottom 5 " src="https://github.com/user-attachments/assets/4093f6f3-3b06-499d-a865-63b55621a0c3" />
 
+-step2 : sales trends vary over time (daily, monthly, quarterly, annually).
+<img width="891" height="209" alt="sales trend by period" src="https://github.com/user-attachments/assets/a6a996e0-7dba-4405-bc78-fd28d66073bb" />
+
+-Step3 :  Show relationship between sales & profit.
+
+<img width="891" height="209" alt="sales trend by period" src="https://github.com/user-attachments/assets/6f20120b-1089-4daa-94a6-c8bc351d78ab" />
+
+-Step4 : Compare sales/profit/quantity sold between any two periods selected by the user.
+<img width="793" height="444" alt="sales profit Quantity between two period" src="https://github.com/user-attachments/assets/704147fe-4bf9-48f7-8208-cd69ce1e6198" />
 
 
-
-
-
-
- 
 
