@@ -1,7 +1,7 @@
 
 #Sales Data Analysis
 
-### Dashboard Link :https://github.com/masuqueali91/Sales-Data-Analysis/blob/main/Data%20AnalysisFinal.pbix
+### Dashboard Link :https://app.powerbi.com/view?r=eyJrIjoiYjk4MzZlMDctNjJiMy00NzE2LWExOGItYjg1NzM1YTMyODRmIiwidCI6IjRmMTQ4MDg0LTUyYzMtNDJiNS1hODAxLWQ3MmEzYWI3NjU1YyJ9
 
 ## Problem Statement
 
