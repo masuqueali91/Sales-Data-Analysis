@@ -1,5 +1,6 @@
 
-#Sales Data Analysis
+#Sales Data Analysis Project [ Power Bi]
+
 
 ### Dashboard Link :https://app.powerbi.com/view?r=eyJrIjoiYjk4MzZlMDctNjJiMy00NzE2LWExOGItYjg1NzM1YTMyODRmIiwidCI6IjRmMTQ4MDg0LTUyYzMtNDJiNS1hODAxLWQ3MmEzYWI3NjU1YyJ9
 
@@ -23,7 +24,7 @@ Performed end-to-end sales data analysis using Power BI to identify trends, patt
           Date Table 1 = CALENDARAUTO(). 
           Date Table 2 = CALENDARAUTO().
   Snap of new Date column ,
-  https://github.com/masuqueali91/Sales-Data-Analysis/blob/main/two%20Date%20column.png
+
    
   
 - Step 8 : The stakeholder wants to show sales by different cities, I have shown all the different cities using a map.
