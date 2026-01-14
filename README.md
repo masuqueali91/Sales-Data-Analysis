@@ -44,7 +44,8 @@ Performed end-to-end sales data analysis using Power BI to identify trends, patt
  8) Show sales by different cities.
  <img width="1128" height="573" alt="requirment" src="https://github.com/user-attachments/assets/649cb773-89c1-41bb-bacc-7d2311e593e6" />
 
-### Deshboard Look like
+## Deshboard Look like
+-step1 : Top/Bottom 5 product by Sales/Profit/Quantity Sold.
 
 <img width="1361" height="663" alt="top5, bottom 5 " src="https://github.com/user-attachments/assets/4093f6f3-3b06-499d-a865-63b55621a0c3" />
 
