@@ -60,7 +60,15 @@ Step3 :  Show relationship between sales & profit.
 Step4 : Compare sales/profit/quantity sold between any two periods selected by the user.
 <img width="793" height="444" alt="sales profit Quantity between two period" src="https://github.com/user-attachments/assets/704147fe-4bf9-48f7-8208-cd69ce1e6198" />
 
-- Step 8 : The stakeholder wants to see the sales according to different cities, I have shown all the different cities using a map.
+step 5 :  Average discount offered in each discount category.
+<img width="287" height="270" alt="Average discount of each product" src="https://github.com/user-attachments/assets/62c95be0-453a-43d4-a507-fc504cfb2776" />
+
+
+step 6 : Total number of orders.
+<img width="265" height="78" alt="total orders" src="https://github.com/user-attachments/assets/4198912b-2b5e-4b4e-8f7d-75b0e2b76863" />
+
+
+ Step 8 : The stakeholder wants to see the sales according to different cities, I have shown all the different cities using a map.
 
  <img width="126" height="164" alt="map" src="https://github.com/user-attachments/assets/c3163f51-160c-47b6-afd4-6b4779791ef0" />
 
