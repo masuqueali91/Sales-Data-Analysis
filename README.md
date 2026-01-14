@@ -28,9 +28,7 @@ Performed end-to-end sales data analysis using Power BI to identify trends, patt
   
  <img width="163" height="563" alt="two Date column" src="https://github.com/user-attachments/assets/c92aa7b9-4b55-490e-b2fe-1d608e795cd6" />
 
-- Step 8 : The stakeholder wants to see the sales according to different cities, I have shown all the different cities using a map.
 
- <img width="126" height="164" alt="map" src="https://github.com/user-attachments/assets/c3163f51-160c-47b6-afd4-6b4779791ef0" />
 
 
  ## Customer requirments
@@ -58,6 +56,10 @@ Step3 :  Show relationship between sales & profit.
 
 Step4 : Compare sales/profit/quantity sold between any two periods selected by the user.
 <img width="793" height="444" alt="sales profit Quantity between two period" src="https://github.com/user-attachments/assets/704147fe-4bf9-48f7-8208-cd69ce1e6198" />
+
+- Step 8 : The stakeholder wants to see the sales according to different cities, I have shown all the different cities using a map.
+
+ <img width="126" height="164" alt="map" src="https://github.com/user-attachments/assets/c3163f51-160c-47b6-afd4-6b4779791ef0" />
 
 
 
