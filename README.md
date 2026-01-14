@@ -19,8 +19,11 @@ Performed end-to-end sales data analysis using Power BI to identify trends, patt
 - Step 5 :Stack holder wants to show top/bottom 5 products based on sales/profit/quantity sold, so I created stacked bar chart in Power BI and showed top/bottom 5 products based on sales, profit and quantity.
 - Step 6 : Stackholder wants to Show relationship between sales & profit, than i created Scatter Chart in power Bi and show the relationship between sales and profit.
 - Step 7 : Stackholder wants to Compare sales/profit/quantity sold between any two periods selected by the user so I created a two time period coumn using DAX expression was written.
-         Date Table 1 = CALENDARAUTO(). 
-         Date Table 2 = CALENDARAUTO(). 
+  
+          Date Table 1 = CALENDARAUTO(). 
+          Date Table 2 = CALENDARAUTO().
+  Snap of new Date column ,
+  
 - Step 8 : The stakeholder wants to show sales by different cities, I have shown all the different cities using a map.
 
       
