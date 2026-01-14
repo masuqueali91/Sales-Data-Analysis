@@ -24,9 +24,8 @@ Performed end-to-end sales data analysis using Power BI to identify trends, patt
           Date Table 1 = CALENDARAUTO(). 
           Date Table 2 = CALENDARAUTO().
   Snap of new Date column ,
+  <img width="163" height="563" alt="two Date column" src="https://github.com/user-attachments/assets/c92aa7b9-4b55-490e-b2fe-1d608e795cd6" />
 
-   
-  
 - Step 8 : The stakeholder wants to show sales by different cities, I have shown all the different cities using a map.
 
       
