@@ -32,5 +32,15 @@ Performed end-to-end sales data analysis using Power BI to identify trends, patt
 
  <img width="126" height="164" alt="map" src="https://github.com/user-attachments/assets/c3163f51-160c-47b6-afd4-6b4779791ef0" />
 
-           
+
+ ### Stackholder requirments
+ 1) Top/Bottom 5 product by Sales/Profit/Quantity Sold.
+ 2) 2) How do sales trends vary over time (daily, monthly, quarterly, annually)
+ 3) Show relationship between sales & profit.
+ 4) Compare sales/profit/quantity sold between any two periods selected by the user.
+ 5) Average discount offered in each discount category.
+ 6) Total number of orders.
+ 7) Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion Categories)
+ 8) Show sales by different cities.
+ <img width="1128" height="573" alt="requirment" src="https://github.com/user-attachments/assets/649cb773-89c1-41bb-bacc-7d2311e593e6" />
 
